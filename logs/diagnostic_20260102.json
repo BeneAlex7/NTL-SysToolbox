@@ -1,0 +1,27 @@
+[
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-02 19:03:33",
+        "status": "OK",
+        "target": "192.168.10.10",
+        "data": {
+            "ad_status": "Running",
+            "dns_status": "Running",
+            "cpu_usage": "12%"
+        },
+        "message": "Contr\u00f4leur de domaine op\u00e9rationnel."
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-02 19:24:08",
+        "status": "OK",
+        "target": "192.168.10.10",
+        "data": {
+            "ad_status": "Running",
+            "dns_status": "Running",
+            "cpu_usage": "12%"
+        },
+        "message": "Contr\u00f4leur de domaine op\u00e9rationnel.",
+        "code": 0
+    }
+]
