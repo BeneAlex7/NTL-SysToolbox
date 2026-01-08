@@ -1,0 +1,33 @@
+
+company:
+  name: "Nord Transit Logistics"
+  short_name: "NTL"
+
+logging:
+  directory: "./logs"
+  json_format: true
+  timestamp_format: "%Y-%m-%d %H:%M:%S"
+
+# Pour l'Audit
+networks:
+  lille_hq: "192.168.10.0/24"
+  wh1_lens: "192.168.20.0/24"
+  wh2_valenciennes: "192.168.30.0/24"
+  wh3_arras: "192.168.40.0/24"
+
+# Pour Diagnostic et Backup
+infrastructure:
+  ad_dns:
+    - { ip: "192.168.10.10", name: "DC01", os: "Windows Server" }
+    - { ip: "192.168.10.11", name: "DC02", os: "Windows Server" }
+  wms:
+    db_ip: "192.168.10.21"   # WMS-DB
+    app_ip: "192.168.10.22"  # WMS-APP
+    db_name: "wms_prod"
+
+
+# Seuils d'alerte
+thresholds:
+  cpu_percent: 90
+  ram_percent: 85
+  disk_percent: 90
