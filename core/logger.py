@@ -26,8 +26,6 @@ class NTL_Logger:
         color = "\033[92m" if status == "OK" else "\033[91m"
         reset = "\033[0m"
         print(f"[{timestamp}] {color}{status}{reset} | Module: {module} | Code: {code} | {message}")
-        if data:
-            print(f"   Détails: {data}")
 
         # Sauvegarde JSON
         filename = f"{module}_{datetime.now().strftime('%Y%m%d')}.json"
