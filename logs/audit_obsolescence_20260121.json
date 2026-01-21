@@ -1,0 +1,1456 @@
+[
+    {
+        "module": "audit_obsolescence",
+        "status": "OK",
+        "code": 0,
+        "target": [
+            "ubuntu",
+            "windows",
+            "windows"
+        ],
+        "data": [
+            [
+                {
+                    "codename": "Questing Quokka",
+                    "support": "2026-07-01",
+                    "latest": "25.10",
+                    "cycle": "25.10"
+                },
+                {
+                    "codename": "Plucky Puffin",
+                    "support": "2026-01-17",
+                    "latest": "25.04",
+                    "cycle": "25.04"
+                },
+                {
+                    "codename": "Oracular Oriole",
+                    "support": "2025-07-10",
+                    "latest": "24.10",
+                    "cycle": "24.10"
+                },
+                {
+                    "codename": "Noble Numbat",
+                    "support": "2029-05-31",
+                    "latest": "24.04.3",
+                    "cycle": "24.04"
+                },
+                {
+                    "codename": "Mantic Minotaur",
+                    "support": "2024-07-12",
+                    "latest": "23.10",
+                    "cycle": "23.10"
+                },
+                {
+                    "codename": "Lunar Lobster",
+                    "support": "2024-01-20",
+                    "latest": "23.04",
+                    "cycle": "23.04"
+                },
+                {
+                    "codename": "Kinetic Kudu",
+                    "support": "2023-07-20",
+                    "latest": "22.10",
+                    "cycle": "22.10"
+                },
+                {
+                    "codename": "Jammy Jellyfish",
+                    "support": "2024-09-30",
+                    "latest": "22.04.5",
+                    "cycle": "22.04"
+                },
+                {
+                    "codename": "Impish Indri",
+                    "support": "2022-07-14",
+                    "latest": "21.10",
+                    "cycle": "21.10"
+                },
+                {
+                    "codename": "Hirsute Hippo",
+                    "support": "2022-01-20",
+                    "latest": "21.04",
+                    "cycle": "21.04"
+                },
+                {
+                    "codename": "Groovy Gorilla",
+                    "support": "2021-07-22",
+                    "latest": "20.10",
+                    "cycle": "20.10"
+                },
+                {
+                    "codename": "Focal Fossa",
+                    "support": "2022-10-01",
+                    "latest": "20.04.6",
+                    "cycle": "20.04"
+                },
+                {
+                    "codename": "Eoan Ermine",
+                    "support": "2020-07-06",
+                    "latest": "19.10",
+                    "cycle": "19.10"
+                },
+                {
+                    "codename": "Disco Dingo",
+                    "support": "2020-01-23",
+                    "latest": "19.04",
+                    "cycle": "19.04"
+                },
+                {
+                    "codename": "Cosmic Cuttlefish",
+                    "support": "2019-07-18",
+                    "latest": "18.10",
+                    "cycle": "18.10"
+                },
+                {
+                    "codename": "Bionic Beaver",
+                    "support": "2023-05-31",
+                    "latest": "18.04.6",
+                    "cycle": "18.04"
+                },
+                {
+                    "codename": "Artful Aardvark",
+                    "support": "2018-07-19",
+                    "latest": "17.10",
+                    "cycle": "17.10"
+                },
+                {
+                    "codename": "Zesty Zapus",
+                    "support": "2018-01-13",
+                    "latest": "17.04",
+                    "cycle": "17.04"
+                },
+                {
+                    "codename": "Yakkety Yak",
+                    "support": "2017-07-20",
+                    "latest": "16.10",
+                    "cycle": "16.10"
+                },
+                {
+                    "codename": "Xenial Xerus",
+                    "support": "2021-04-02",
+                    "latest": "16.04.7",
+                    "cycle": "16.04"
+                },
+                {
+                    "codename": "Wily Werewolf",
+                    "support": "2016-07-28",
+                    "latest": "15.10",
+                    "cycle": "15.10"
+                },
+                {
+                    "codename": "Vivid Vervet",
+                    "support": "2016-02-04",
+                    "latest": "15.04",
+                    "cycle": "15.04"
+                },
+                {
+                    "codename": "Utopic Unicorn",
+                    "support": "2015-07-23",
+                    "latest": "14.10",
+                    "cycle": "14.10"
+                },
+                {
+                    "codename": "Trusty Tahr",
+                    "support": "2019-04-02",
+                    "latest": "14.04.6",
+                    "cycle": "14.04"
+                },
+                {
+                    "codename": "Saucy Salamander",
+                    "support": "2014-07-17",
+                    "latest": "13.10",
+                    "cycle": "13.10"
+                },
+                {
+                    "codename": "Raring Ringtail",
+                    "support": "2014-01-27",
+                    "latest": "13.04",
+                    "cycle": "13.04"
+                },
+                {
+                    "codename": "Quantal Quetzal",
+                    "support": "2014-05-16",
+                    "latest": "12.10",
+                    "cycle": "12.10"
+                },
+                {
+                    "codename": "Precise Pangolin",
+                    "support": "2017-04-28",
+                    "latest": "12.04.5",
+                    "cycle": "12.04"
+                },
+                {
+                    "codename": "Oneiric Ocelot",
+                    "support": "2013-05-09",
+                    "latest": "11.10",
+                    "cycle": "11.10"
+                },
+                {
+                    "codename": "Natty Narwhal",
+                    "support": "2012-10-28",
+                    "latest": "11.04",
+                    "cycle": "11.04"
+                },
+                {
+                    "codename": "Maverick Meerkat",
+                    "support": "2012-04-10",
+                    "latest": "10.10",
+                    "cycle": "10.10"
+                },
+                {
+                    "codename": "Lucid Lynx",
+                    "support": "2013-05-09",
+                    "latest": "10.04.4",
+                    "cycle": "10.04"
+                },
+                {
+                    "codename": "Karmic Koala",
+                    "support": "2011-04-30",
+                    "latest": "9.10",
+                    "cycle": "9.10"
+                },
+                {
+                    "codename": "Jaunty Jackalope",
+                    "support": "2010-10-23",
+                    "latest": "9.04",
+                    "cycle": "9.04"
+                },
+                {
+                    "codename": "Intrepid Ibex",
+                    "support": "2010-04-30",
+                    "latest": "8.10",
+                    "cycle": "8.10"
+                },
+                {
+                    "codename": "Hardy Heron",
+                    "support": "2013-05-09",
+                    "latest": "8.04.4",
+                    "cycle": "8.04"
+                },
+                {
+                    "codename": "Gutsy Gibbon",
+                    "support": "2009-04-18",
+                    "latest": "7.10",
+                    "cycle": "7.10"
+                },
+                {
+                    "codename": "Feisty Fawn",
+                    "support": "2008-10-19",
+                    "latest": "7.04",
+                    "cycle": "7.04"
+                },
+                {
+                    "codename": "Edgy Eft",
+                    "support": "2006-10-26",
+                    "latest": "6.10",
+                    "cycle": "6.10"
+                },
+                {
+                    "codename": "Dapper Drake",
+                    "support": "2011-06-01",
+                    "latest": "6.06.2",
+                    "cycle": "6.06"
+                },
+                {
+                    "codename": "Breezy Badger",
+                    "support": "2007-04-13",
+                    "latest": "5.10",
+                    "cycle": "5.10"
+                },
+                {
+                    "codename": "Hoary Hedgehog",
+                    "support": "2006-10-31",
+                    "latest": "5.04",
+                    "cycle": "5.04"
+                },
+                {
+                    "codename": "Warty Warthog",
+                    "support": "2004-10-26",
+                    "latest": "4.10",
+                    "cycle": "4.10"
+                }
+            ],
+            [
+                {
+                    "support": "2028-10-10",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-e"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-w"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-iot-lts"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e-lts"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e"
+                },
+                {
+                    "support": "2026-10-13",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-w"
+                },
+                {
+                    "support": "2026-11-10",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-e"
+                },
+                {
+                    "support": "2025-11-11",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-w"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.19045",
+                    "cycle": "10-22h2"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-e"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-w"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-iot-lts"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e-lts"
+                },
+                {
+                    "support": "2024-06-11",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e"
+                },
+                {
+                    "support": "2023-06-13",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-w"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-e"
+                },
+                {
+                    "support": "2023-10-10",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-w"
+                },
+                {
+                    "support": "2022-12-13",
+                    "latest": "10.0.19043",
+                    "cycle": "10-21h1"
+                },
+                {
+                    "support": "2023-05-09",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-e"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-w"
+                },
+                {
+                    "support": "2021-12-14",
+                    "latest": "10.0.19041",
+                    "cycle": "10-2004"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-e"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-w"
+                },
+                {
+                    "support": "2020-12-08",
+                    "latest": "10.0.18362",
+                    "cycle": "10-1903"
+                },
+                {
+                    "support": "2024-01-09",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e-lts"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-w"
+                },
+                {
+                    "support": "2020-05-11",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-e"
+                },
+                {
+                    "support": "2019-11-12",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-w"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-e"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-w"
+                },
+                {
+                    "support": "2019-10-08",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-e"
+                },
+                {
+                    "support": "2018-10-09",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-w"
+                },
+                {
+                    "support": "2021-10-12",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e-lts"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e"
+                },
+                {
+                    "support": "2018-04-10",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-w"
+                },
+                {
+                    "support": "2017-10-10",
+                    "latest": "10.0.10586",
+                    "cycle": "10-1511"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-e-lts"
+                },
+                {
+                    "support": "2017-05-09",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-iot"
+                },
+                {
+                    "support": "2018-01-09",
+                    "latest": "6.3.9600",
+                    "cycle": "8.1"
+                },
+                {
+                    "support": "2016-01-12",
+                    "latest": "6.2.9200",
+                    "cycle": "8"
+                },
+                {
+                    "support": "2015-01-13",
+                    "latest": "6.1.7601",
+                    "cycle": "7-sp1"
+                },
+                {
+                    "support": "2012-04-10",
+                    "latest": "6.0.6200",
+                    "cycle": "6-sp2"
+                },
+                {
+                    "support": "2009-04-14",
+                    "latest": "5.1.2600",
+                    "cycle": "5-sp3"
+                }
+            ],
+            [
+                {
+                    "support": "2028-10-10",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-e"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-w"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-iot-lts"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e-lts"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e"
+                },
+                {
+                    "support": "2026-10-13",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-w"
+                },
+                {
+                    "support": "2026-11-10",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-e"
+                },
+                {
+                    "support": "2025-11-11",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-w"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.19045",
+                    "cycle": "10-22h2"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-e"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-w"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-iot-lts"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e-lts"
+                },
+                {
+                    "support": "2024-06-11",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e"
+                },
+                {
+                    "support": "2023-06-13",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-w"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-e"
+                },
+                {
+                    "support": "2023-10-10",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-w"
+                },
+                {
+                    "support": "2022-12-13",
+                    "latest": "10.0.19043",
+                    "cycle": "10-21h1"
+                },
+                {
+                    "support": "2023-05-09",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-e"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-w"
+                },
+                {
+                    "support": "2021-12-14",
+                    "latest": "10.0.19041",
+                    "cycle": "10-2004"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-e"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-w"
+                },
+                {
+                    "support": "2020-12-08",
+                    "latest": "10.0.18362",
+                    "cycle": "10-1903"
+                },
+                {
+                    "support": "2024-01-09",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e-lts"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-w"
+                },
+                {
+                    "support": "2020-05-11",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-e"
+                },
+                {
+                    "support": "2019-11-12",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-w"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-e"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-w"
+                },
+                {
+                    "support": "2019-10-08",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-e"
+                },
+                {
+                    "support": "2018-10-09",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-w"
+                },
+                {
+                    "support": "2021-10-12",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e-lts"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e"
+                },
+                {
+                    "support": "2018-04-10",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-w"
+                },
+                {
+                    "support": "2017-10-10",
+                    "latest": "10.0.10586",
+                    "cycle": "10-1511"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-e-lts"
+                },
+                {
+                    "support": "2017-05-09",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-iot"
+                },
+                {
+                    "support": "2018-01-09",
+                    "latest": "6.3.9600",
+                    "cycle": "8.1"
+                },
+                {
+                    "support": "2016-01-12",
+                    "latest": "6.2.9200",
+                    "cycle": "8"
+                },
+                {
+                    "support": "2015-01-13",
+                    "latest": "6.1.7601",
+                    "cycle": "7-sp1"
+                },
+                {
+                    "support": "2012-04-10",
+                    "latest": "6.0.6200",
+                    "cycle": "6-sp2"
+                },
+                {
+                    "support": "2009-04-14",
+                    "latest": "5.1.2600",
+                    "cycle": "5-sp3"
+                }
+            ]
+        ],
+        "message": "\n\u001b[3m                            OS TARGET: UBUNTU                             \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMain version\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mQuesting Quokka          \u001b[0m\u001b[2m \u001b[0m\u2502    25.10     \u2502 2026-07-01  \u2502     25.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mPlucky Puffin            \u001b[0m\u001b[2m \u001b[0m\u2502    25.04     \u2502 2026-01-17  \u2502     25.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mOracular Oriole          \u001b[0m\u001b[2m \u001b[0m\u2502    24.10     \u2502 2025-07-10  \u2502     24.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mNoble Numbat             \u001b[0m\u001b[2m \u001b[0m\u2502    24.04     \u2502 2029-05-31  \u2502    24.04.3    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mMantic Minotaur          \u001b[0m\u001b[2m \u001b[0m\u2502    23.10     \u2502 2024-07-12  \u2502     23.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mLunar Lobster            \u001b[0m\u001b[2m \u001b[0m\u2502    23.04     \u2502 2024-01-20  \u2502     23.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mKinetic Kudu             \u001b[0m\u001b[2m \u001b[0m\u2502    22.10     \u2502 2023-07-20  \u2502     22.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mJammy Jellyfish          \u001b[0m\u001b[2m \u001b[0m\u2502    22.04     \u2502 2024-09-30  \u2502    22.04.5    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mImpish Indri             \u001b[0m\u001b[2m \u001b[0m\u2502    21.10     \u2502 2022-07-14  \u2502     21.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHirsute Hippo            \u001b[0m\u001b[2m \u001b[0m\u2502    21.04     \u2502 2022-01-20  \u2502     21.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mGroovy Gorilla           \u001b[0m\u001b[2m \u001b[0m\u2502    20.10     \u2502 2021-07-22  \u2502     20.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mFocal Fossa              \u001b[0m\u001b[2m \u001b[0m\u2502    20.04     \u2502 2022-10-01  \u2502    20.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mEoan Ermine              \u001b[0m\u001b[2m \u001b[0m\u2502    19.10     \u2502 2020-07-06  \u2502     19.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mDisco Dingo              \u001b[0m\u001b[2m \u001b[0m\u2502    19.04     \u2502 2020-01-23  \u2502     19.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mCosmic Cuttlefish        \u001b[0m\u001b[2m \u001b[0m\u2502    18.10     \u2502 2019-07-18  \u2502     18.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mBionic Beaver            \u001b[0m\u001b[2m \u001b[0m\u2502    18.04     \u2502 2023-05-31  \u2502    18.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mArtful Aardvark          \u001b[0m\u001b[2m \u001b[0m\u2502    17.10     \u2502 2018-07-19  \u2502     17.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mZesty Zapus              \u001b[0m\u001b[2m \u001b[0m\u2502    17.04     \u2502 2018-01-13  \u2502     17.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mYakkety Yak              \u001b[0m\u001b[2m \u001b[0m\u2502    16.10     \u2502 2017-07-20  \u2502     16.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mXenial Xerus             \u001b[0m\u001b[2m \u001b[0m\u2502    16.04     \u2502 2021-04-02  \u2502    16.04.7    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWily Werewolf            \u001b[0m\u001b[2m \u001b[0m\u2502    15.10     \u2502 2016-07-28  \u2502     15.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mVivid Vervet             \u001b[0m\u001b[2m \u001b[0m\u2502    15.04     \u2502 2016-02-04  \u2502     15.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mUtopic Unicorn           \u001b[0m\u001b[2m \u001b[0m\u2502    14.10     \u2502 2015-07-23  \u2502     14.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mTrusty Tahr              \u001b[0m\u001b[2m \u001b[0m\u2502    14.04     \u2502 2019-04-02  \u2502    14.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mSaucy Salamander         \u001b[0m\u001b[2m \u001b[0m\u2502    13.10     \u2502 2014-07-17  \u2502     13.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mRaring Ringtail          \u001b[0m\u001b[2m \u001b[0m\u2502    13.04     \u2502 2014-01-27  \u2502     13.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mQuantal Quetzal          \u001b[0m\u001b[2m \u001b[0m\u2502    12.10     \u2502 2014-05-16  \u2502     12.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mPrecise Pangolin         \u001b[0m\u001b[2m \u001b[0m\u2502    12.04     \u2502 2017-04-28  \u2502    12.04.5    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mOneiric Ocelot           \u001b[0m\u001b[2m \u001b[0m\u2502    11.10     \u2502 2013-05-09  \u2502     11.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mNatty Narwhal            \u001b[0m\u001b[2m \u001b[0m\u2502    11.04     \u2502 2012-10-28  \u2502     11.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mMaverick Meerkat         \u001b[0m\u001b[2m \u001b[0m\u2502    10.10     \u2502 2012-04-10  \u2502     10.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mLucid Lynx               \u001b[0m\u001b[2m \u001b[0m\u2502    10.04     \u2502 2013-05-09  \u2502    10.04.4    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mKarmic Koala             \u001b[0m\u001b[2m \u001b[0m\u2502     9.10     \u2502 2011-04-30  \u2502     9.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mJaunty Jackalope         \u001b[0m\u001b[2m \u001b[0m\u2502     9.04     \u2502 2010-10-23  \u2502     9.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mIntrepid Ibex            \u001b[0m\u001b[2m \u001b[0m\u2502     8.10     \u2502 2010-04-30  \u2502     8.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHardy Heron              \u001b[0m\u001b[2m \u001b[0m\u2502     8.04     \u2502 2013-05-09  \u2502    8.04.4     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mGutsy Gibbon             \u001b[0m\u001b[2m \u001b[0m\u2502     7.10     \u2502 2009-04-18  \u2502     7.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mFeisty Fawn              \u001b[0m\u001b[2m \u001b[0m\u2502     7.04     \u2502 2008-10-19  \u2502     7.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mEdgy Eft                 \u001b[0m\u001b[2m \u001b[0m\u2502     6.10     \u2502 2006-10-26  \u2502     6.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mDapper Drake             \u001b[0m\u001b[2m \u001b[0m\u2502     6.06     \u2502 2011-06-01  \u2502    6.06.2     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mBreezy Badger            \u001b[0m\u001b[2m \u001b[0m\u2502     5.10     \u2502 2007-04-13  \u2502     5.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHoary Hedgehog           \u001b[0m\u001b[2m \u001b[0m\u2502     5.04     \u2502 2006-10-31  \u2502     5.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWarty Warthog            \u001b[0m\u001b[2m \u001b[0m\u2502     4.10     \u2502 2004-10-26  \u2502     4.10      \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n\u001b[3m                             OS TARGET: WINDOWS                              \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36m Main version  \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-e    \u2502 2028-10-10  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-w    \u2502 2027-10-12  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 11-24h2-iot-lts \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  11-24h2-e-lts  \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-e    \u2502 2027-10-12  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-w    \u2502 2026-10-13  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-e    \u2502 2026-11-10  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-w    \u2502 2025-11-11  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-22h2     \u2502 2025-10-14  \u2502  10.0.19045   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-e    \u2502 2025-10-14  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-w    \u2502 2024-10-08  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 10-21h2-iot-lts \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-21h2-e-lts  \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-e    \u2502 2024-06-11  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-w    \u2502 2023-06-13  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-e    \u2502 2024-10-08  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-w    \u2502 2023-10-10  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-21h1     \u2502 2022-12-13  \u2502  10.0.19043   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-e    \u2502 2023-05-09  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-w    \u2502 2022-05-10  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-2004     \u2502 2021-12-14  \u2502  10.0.19041   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-e    \u2502 2022-05-10  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-w    \u2502 2021-05-11  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1903     \u2502 2020-12-08  \u2502  10.0.18362   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1809-e-lts  \u2502 2024-01-09  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-e    \u2502 2021-05-11  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-w    \u2502 2020-11-10  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-e    \u2502 2020-05-11  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-w    \u2502 2019-11-12  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-e    \u2502 2020-10-13  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-w    \u2502 2019-04-09  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-e    \u2502 2019-10-08  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-w    \u2502 2018-10-09  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1607-e-lts  \u2502 2021-10-12  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-e    \u2502 2019-04-09  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-w    \u2502 2018-04-10  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1511     \u2502 2017-10-10  \u2502  10.0.10586   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1507-e-lts  \u2502 2020-10-13  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1507     \u2502 2017-05-09  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502   10-1507-iot   \u2502 2020-11-10  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502       8.1       \u2502 2018-01-09  \u2502   6.3.9600    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502        8        \u2502 2016-01-12  \u2502   6.2.9200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      7-sp1      \u2502 2015-01-13  \u2502   6.1.7601    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      6-sp2      \u2502 2012-04-10  \u2502   6.0.6200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      5-sp3      \u2502 2009-04-14  \u2502   5.1.2600    \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n\u001b[3m                             OS TARGET: WINDOWS                              \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36m Main version  \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-e    \u2502 2028-10-10  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-w    \u2502 2027-10-12  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 11-24h2-iot-lts \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  11-24h2-e-lts  \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-e    \u2502 2027-10-12  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-w    \u2502 2026-10-13  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-e    \u2502 2026-11-10  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-w    \u2502 2025-11-11  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-22h2     \u2502 2025-10-14  \u2502  10.0.19045   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-e    \u2502 2025-10-14  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-w    \u2502 2024-10-08  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 10-21h2-iot-lts \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-21h2-e-lts  \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-e    \u2502 2024-06-11  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-w    \u2502 2023-06-13  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-e    \u2502 2024-10-08  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-w    \u2502 2023-10-10  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-21h1     \u2502 2022-12-13  \u2502  10.0.19043   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-e    \u2502 2023-05-09  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-w    \u2502 2022-05-10  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-2004     \u2502 2021-12-14  \u2502  10.0.19041   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-e    \u2502 2022-05-10  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-w    \u2502 2021-05-11  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1903     \u2502 2020-12-08  \u2502  10.0.18362   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1809-e-lts  \u2502 2024-01-09  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-e    \u2502 2021-05-11  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-w    \u2502 2020-11-10  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-e    \u2502 2020-05-11  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-w    \u2502 2019-11-12  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-e    \u2502 2020-10-13  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-w    \u2502 2019-04-09  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-e    \u2502 2019-10-08  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-w    \u2502 2018-10-09  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1607-e-lts  \u2502 2021-10-12  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-e    \u2502 2019-04-09  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-w    \u2502 2018-04-10  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1511     \u2502 2017-10-10  \u2502  10.0.10586   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1507-e-lts  \u2502 2020-10-13  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1507     \u2502 2017-05-09  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502   10-1507-iot   \u2502 2020-11-10  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502       8.1       \u2502 2018-01-09  \u2502   6.3.9600    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502        8        \u2502 2016-01-12  \u2502   6.2.9200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      7-sp1      \u2502 2015-01-13  \u2502   6.1.7601    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      6-sp2      \u2502 2012-04-10  \u2502   6.0.6200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      5-sp3      \u2502 2009-04-14  \u2502   5.1.2600    \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n"
+    },
+    {
+        "module": "audit_obsolescence",
+        "status": "OK",
+        "code": 0,
+        "target": [
+            "ubuntu",
+            "windows",
+            "windows"
+        ],
+        "data": [
+            [
+                {
+                    "codename": "Questing Quokka",
+                    "support": "2026-07-01",
+                    "latest": "25.10",
+                    "cycle": "25.10"
+                },
+                {
+                    "codename": "Plucky Puffin",
+                    "support": "2026-01-17",
+                    "latest": "25.04",
+                    "cycle": "25.04"
+                },
+                {
+                    "codename": "Oracular Oriole",
+                    "support": "2025-07-10",
+                    "latest": "24.10",
+                    "cycle": "24.10"
+                },
+                {
+                    "codename": "Noble Numbat",
+                    "support": "2029-05-31",
+                    "latest": "24.04.3",
+                    "cycle": "24.04"
+                },
+                {
+                    "codename": "Mantic Minotaur",
+                    "support": "2024-07-12",
+                    "latest": "23.10",
+                    "cycle": "23.10"
+                },
+                {
+                    "codename": "Lunar Lobster",
+                    "support": "2024-01-20",
+                    "latest": "23.04",
+                    "cycle": "23.04"
+                },
+                {
+                    "codename": "Kinetic Kudu",
+                    "support": "2023-07-20",
+                    "latest": "22.10",
+                    "cycle": "22.10"
+                },
+                {
+                    "codename": "Jammy Jellyfish",
+                    "support": "2024-09-30",
+                    "latest": "22.04.5",
+                    "cycle": "22.04"
+                },
+                {
+                    "codename": "Impish Indri",
+                    "support": "2022-07-14",
+                    "latest": "21.10",
+                    "cycle": "21.10"
+                },
+                {
+                    "codename": "Hirsute Hippo",
+                    "support": "2022-01-20",
+                    "latest": "21.04",
+                    "cycle": "21.04"
+                },
+                {
+                    "codename": "Groovy Gorilla",
+                    "support": "2021-07-22",
+                    "latest": "20.10",
+                    "cycle": "20.10"
+                },
+                {
+                    "codename": "Focal Fossa",
+                    "support": "2022-10-01",
+                    "latest": "20.04.6",
+                    "cycle": "20.04"
+                },
+                {
+                    "codename": "Eoan Ermine",
+                    "support": "2020-07-06",
+                    "latest": "19.10",
+                    "cycle": "19.10"
+                },
+                {
+                    "codename": "Disco Dingo",
+                    "support": "2020-01-23",
+                    "latest": "19.04",
+                    "cycle": "19.04"
+                },
+                {
+                    "codename": "Cosmic Cuttlefish",
+                    "support": "2019-07-18",
+                    "latest": "18.10",
+                    "cycle": "18.10"
+                },
+                {
+                    "codename": "Bionic Beaver",
+                    "support": "2023-05-31",
+                    "latest": "18.04.6",
+                    "cycle": "18.04"
+                },
+                {
+                    "codename": "Artful Aardvark",
+                    "support": "2018-07-19",
+                    "latest": "17.10",
+                    "cycle": "17.10"
+                },
+                {
+                    "codename": "Zesty Zapus",
+                    "support": "2018-01-13",
+                    "latest": "17.04",
+                    "cycle": "17.04"
+                },
+                {
+                    "codename": "Yakkety Yak",
+                    "support": "2017-07-20",
+                    "latest": "16.10",
+                    "cycle": "16.10"
+                },
+                {
+                    "codename": "Xenial Xerus",
+                    "support": "2021-04-02",
+                    "latest": "16.04.7",
+                    "cycle": "16.04"
+                },
+                {
+                    "codename": "Wily Werewolf",
+                    "support": "2016-07-28",
+                    "latest": "15.10",
+                    "cycle": "15.10"
+                },
+                {
+                    "codename": "Vivid Vervet",
+                    "support": "2016-02-04",
+                    "latest": "15.04",
+                    "cycle": "15.04"
+                },
+                {
+                    "codename": "Utopic Unicorn",
+                    "support": "2015-07-23",
+                    "latest": "14.10",
+                    "cycle": "14.10"
+                },
+                {
+                    "codename": "Trusty Tahr",
+                    "support": "2019-04-02",
+                    "latest": "14.04.6",
+                    "cycle": "14.04"
+                },
+                {
+                    "codename": "Saucy Salamander",
+                    "support": "2014-07-17",
+                    "latest": "13.10",
+                    "cycle": "13.10"
+                },
+                {
+                    "codename": "Raring Ringtail",
+                    "support": "2014-01-27",
+                    "latest": "13.04",
+                    "cycle": "13.04"
+                },
+                {
+                    "codename": "Quantal Quetzal",
+                    "support": "2014-05-16",
+                    "latest": "12.10",
+                    "cycle": "12.10"
+                },
+                {
+                    "codename": "Precise Pangolin",
+                    "support": "2017-04-28",
+                    "latest": "12.04.5",
+                    "cycle": "12.04"
+                },
+                {
+                    "codename": "Oneiric Ocelot",
+                    "support": "2013-05-09",
+                    "latest": "11.10",
+                    "cycle": "11.10"
+                },
+                {
+                    "codename": "Natty Narwhal",
+                    "support": "2012-10-28",
+                    "latest": "11.04",
+                    "cycle": "11.04"
+                },
+                {
+                    "codename": "Maverick Meerkat",
+                    "support": "2012-04-10",
+                    "latest": "10.10",
+                    "cycle": "10.10"
+                },
+                {
+                    "codename": "Lucid Lynx",
+                    "support": "2013-05-09",
+                    "latest": "10.04.4",
+                    "cycle": "10.04"
+                },
+                {
+                    "codename": "Karmic Koala",
+                    "support": "2011-04-30",
+                    "latest": "9.10",
+                    "cycle": "9.10"
+                },
+                {
+                    "codename": "Jaunty Jackalope",
+                    "support": "2010-10-23",
+                    "latest": "9.04",
+                    "cycle": "9.04"
+                },
+                {
+                    "codename": "Intrepid Ibex",
+                    "support": "2010-04-30",
+                    "latest": "8.10",
+                    "cycle": "8.10"
+                },
+                {
+                    "codename": "Hardy Heron",
+                    "support": "2013-05-09",
+                    "latest": "8.04.4",
+                    "cycle": "8.04"
+                },
+                {
+                    "codename": "Gutsy Gibbon",
+                    "support": "2009-04-18",
+                    "latest": "7.10",
+                    "cycle": "7.10"
+                },
+                {
+                    "codename": "Feisty Fawn",
+                    "support": "2008-10-19",
+                    "latest": "7.04",
+                    "cycle": "7.04"
+                },
+                {
+                    "codename": "Edgy Eft",
+                    "support": "2006-10-26",
+                    "latest": "6.10",
+                    "cycle": "6.10"
+                },
+                {
+                    "codename": "Dapper Drake",
+                    "support": "2011-06-01",
+                    "latest": "6.06.2",
+                    "cycle": "6.06"
+                },
+                {
+                    "codename": "Breezy Badger",
+                    "support": "2007-04-13",
+                    "latest": "5.10",
+                    "cycle": "5.10"
+                },
+                {
+                    "codename": "Hoary Hedgehog",
+                    "support": "2006-10-31",
+                    "latest": "5.04",
+                    "cycle": "5.04"
+                },
+                {
+                    "codename": "Warty Warthog",
+                    "support": "2004-10-26",
+                    "latest": "4.10",
+                    "cycle": "4.10"
+                }
+            ],
+            [
+                {
+                    "support": "2028-10-10",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-e"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-w"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-iot-lts"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e-lts"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e"
+                },
+                {
+                    "support": "2026-10-13",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-w"
+                },
+                {
+                    "support": "2026-11-10",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-e"
+                },
+                {
+                    "support": "2025-11-11",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-w"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.19045",
+                    "cycle": "10-22h2"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-e"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-w"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-iot-lts"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e-lts"
+                },
+                {
+                    "support": "2024-06-11",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e"
+                },
+                {
+                    "support": "2023-06-13",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-w"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-e"
+                },
+                {
+                    "support": "2023-10-10",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-w"
+                },
+                {
+                    "support": "2022-12-13",
+                    "latest": "10.0.19043",
+                    "cycle": "10-21h1"
+                },
+                {
+                    "support": "2023-05-09",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-e"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-w"
+                },
+                {
+                    "support": "2021-12-14",
+                    "latest": "10.0.19041",
+                    "cycle": "10-2004"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-e"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-w"
+                },
+                {
+                    "support": "2020-12-08",
+                    "latest": "10.0.18362",
+                    "cycle": "10-1903"
+                },
+                {
+                    "support": "2024-01-09",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e-lts"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-w"
+                },
+                {
+                    "support": "2020-05-11",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-e"
+                },
+                {
+                    "support": "2019-11-12",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-w"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-e"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-w"
+                },
+                {
+                    "support": "2019-10-08",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-e"
+                },
+                {
+                    "support": "2018-10-09",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-w"
+                },
+                {
+                    "support": "2021-10-12",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e-lts"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e"
+                },
+                {
+                    "support": "2018-04-10",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-w"
+                },
+                {
+                    "support": "2017-10-10",
+                    "latest": "10.0.10586",
+                    "cycle": "10-1511"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-e-lts"
+                },
+                {
+                    "support": "2017-05-09",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-iot"
+                },
+                {
+                    "support": "2018-01-09",
+                    "latest": "6.3.9600",
+                    "cycle": "8.1"
+                },
+                {
+                    "support": "2016-01-12",
+                    "latest": "6.2.9200",
+                    "cycle": "8"
+                },
+                {
+                    "support": "2015-01-13",
+                    "latest": "6.1.7601",
+                    "cycle": "7-sp1"
+                },
+                {
+                    "support": "2012-04-10",
+                    "latest": "6.0.6200",
+                    "cycle": "6-sp2"
+                },
+                {
+                    "support": "2009-04-14",
+                    "latest": "5.1.2600",
+                    "cycle": "5-sp3"
+                }
+            ],
+            [
+                {
+                    "support": "2028-10-10",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-e"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26200",
+                    "cycle": "11-25h2-w"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-iot-lts"
+                },
+                {
+                    "support": "2029-10-09",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e-lts"
+                },
+                {
+                    "support": "2027-10-12",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-e"
+                },
+                {
+                    "support": "2026-10-13",
+                    "latest": "10.0.26100",
+                    "cycle": "11-24h2-w"
+                },
+                {
+                    "support": "2026-11-10",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-e"
+                },
+                {
+                    "support": "2025-11-11",
+                    "latest": "10.0.22631",
+                    "cycle": "11-23h2-w"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.19045",
+                    "cycle": "10-22h2"
+                },
+                {
+                    "support": "2025-10-14",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-e"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22621",
+                    "cycle": "11-22h2-w"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-iot-lts"
+                },
+                {
+                    "support": "2027-01-12",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e-lts"
+                },
+                {
+                    "support": "2024-06-11",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-e"
+                },
+                {
+                    "support": "2023-06-13",
+                    "latest": "10.0.19044",
+                    "cycle": "10-21h2-w"
+                },
+                {
+                    "support": "2024-10-08",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-e"
+                },
+                {
+                    "support": "2023-10-10",
+                    "latest": "10.0.22000",
+                    "cycle": "11-21h2-w"
+                },
+                {
+                    "support": "2022-12-13",
+                    "latest": "10.0.19043",
+                    "cycle": "10-21h1"
+                },
+                {
+                    "support": "2023-05-09",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-e"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.19042",
+                    "cycle": "10-20h2-w"
+                },
+                {
+                    "support": "2021-12-14",
+                    "latest": "10.0.19041",
+                    "cycle": "10-2004"
+                },
+                {
+                    "support": "2022-05-10",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-e"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.18363",
+                    "cycle": "10-1909-w"
+                },
+                {
+                    "support": "2020-12-08",
+                    "latest": "10.0.18362",
+                    "cycle": "10-1903"
+                },
+                {
+                    "support": "2024-01-09",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e-lts"
+                },
+                {
+                    "support": "2021-05-11",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-e"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.17763",
+                    "cycle": "10-1809-w"
+                },
+                {
+                    "support": "2020-05-11",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-e"
+                },
+                {
+                    "support": "2019-11-12",
+                    "latest": "10.0.17134",
+                    "cycle": "10-1803-w"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-e"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.16299",
+                    "cycle": "10-1709-w"
+                },
+                {
+                    "support": "2019-10-08",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-e"
+                },
+                {
+                    "support": "2018-10-09",
+                    "latest": "10.0.15063",
+                    "cycle": "10-1703-w"
+                },
+                {
+                    "support": "2021-10-12",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e-lts"
+                },
+                {
+                    "support": "2019-04-09",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-e"
+                },
+                {
+                    "support": "2018-04-10",
+                    "latest": "10.0.14393",
+                    "cycle": "10-1607-w"
+                },
+                {
+                    "support": "2017-10-10",
+                    "latest": "10.0.10586",
+                    "cycle": "10-1511"
+                },
+                {
+                    "support": "2020-10-13",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-e-lts"
+                },
+                {
+                    "support": "2017-05-09",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507"
+                },
+                {
+                    "support": "2020-11-10",
+                    "latest": "10.0.10240",
+                    "cycle": "10-1507-iot"
+                },
+                {
+                    "support": "2018-01-09",
+                    "latest": "6.3.9600",
+                    "cycle": "8.1"
+                },
+                {
+                    "support": "2016-01-12",
+                    "latest": "6.2.9200",
+                    "cycle": "8"
+                },
+                {
+                    "support": "2015-01-13",
+                    "latest": "6.1.7601",
+                    "cycle": "7-sp1"
+                },
+                {
+                    "support": "2012-04-10",
+                    "latest": "6.0.6200",
+                    "cycle": "6-sp2"
+                },
+                {
+                    "support": "2009-04-14",
+                    "latest": "5.1.2600",
+                    "cycle": "5-sp3"
+                }
+            ]
+        ],
+        "message": "\n\u001b[3m                            OS TARGET: UBUNTU                             \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMain version\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mQuesting Quokka          \u001b[0m\u001b[2m \u001b[0m\u2502    25.10     \u2502 2026-07-01  \u2502     25.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mPlucky Puffin            \u001b[0m\u001b[2m \u001b[0m\u2502    25.04     \u2502 2026-01-17  \u2502     25.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mOracular Oriole          \u001b[0m\u001b[2m \u001b[0m\u2502    24.10     \u2502 2025-07-10  \u2502     24.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mNoble Numbat             \u001b[0m\u001b[2m \u001b[0m\u2502    24.04     \u2502 2029-05-31  \u2502    24.04.3    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mMantic Minotaur          \u001b[0m\u001b[2m \u001b[0m\u2502    23.10     \u2502 2024-07-12  \u2502     23.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mLunar Lobster            \u001b[0m\u001b[2m \u001b[0m\u2502    23.04     \u2502 2024-01-20  \u2502     23.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mKinetic Kudu             \u001b[0m\u001b[2m \u001b[0m\u2502    22.10     \u2502 2023-07-20  \u2502     22.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mJammy Jellyfish          \u001b[0m\u001b[2m \u001b[0m\u2502    22.04     \u2502 2024-09-30  \u2502    22.04.5    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mImpish Indri             \u001b[0m\u001b[2m \u001b[0m\u2502    21.10     \u2502 2022-07-14  \u2502     21.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHirsute Hippo            \u001b[0m\u001b[2m \u001b[0m\u2502    21.04     \u2502 2022-01-20  \u2502     21.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mGroovy Gorilla           \u001b[0m\u001b[2m \u001b[0m\u2502    20.10     \u2502 2021-07-22  \u2502     20.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mFocal Fossa              \u001b[0m\u001b[2m \u001b[0m\u2502    20.04     \u2502 2022-10-01  \u2502    20.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mEoan Ermine              \u001b[0m\u001b[2m \u001b[0m\u2502    19.10     \u2502 2020-07-06  \u2502     19.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mDisco Dingo              \u001b[0m\u001b[2m \u001b[0m\u2502    19.04     \u2502 2020-01-23  \u2502     19.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mCosmic Cuttlefish        \u001b[0m\u001b[2m \u001b[0m\u2502    18.10     \u2502 2019-07-18  \u2502     18.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mBionic Beaver            \u001b[0m\u001b[2m \u001b[0m\u2502    18.04     \u2502 2023-05-31  \u2502    18.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mArtful Aardvark          \u001b[0m\u001b[2m \u001b[0m\u2502    17.10     \u2502 2018-07-19  \u2502     17.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mZesty Zapus              \u001b[0m\u001b[2m \u001b[0m\u2502    17.04     \u2502 2018-01-13  \u2502     17.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mYakkety Yak              \u001b[0m\u001b[2m \u001b[0m\u2502    16.10     \u2502 2017-07-20  \u2502     16.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mXenial Xerus             \u001b[0m\u001b[2m \u001b[0m\u2502    16.04     \u2502 2021-04-02  \u2502    16.04.7    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWily Werewolf            \u001b[0m\u001b[2m \u001b[0m\u2502    15.10     \u2502 2016-07-28  \u2502     15.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mVivid Vervet             \u001b[0m\u001b[2m \u001b[0m\u2502    15.04     \u2502 2016-02-04  \u2502     15.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mUtopic Unicorn           \u001b[0m\u001b[2m \u001b[0m\u2502    14.10     \u2502 2015-07-23  \u2502     14.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mTrusty Tahr              \u001b[0m\u001b[2m \u001b[0m\u2502    14.04     \u2502 2019-04-02  \u2502    14.04.6    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mSaucy Salamander         \u001b[0m\u001b[2m \u001b[0m\u2502    13.10     \u2502 2014-07-17  \u2502     13.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mRaring Ringtail          \u001b[0m\u001b[2m \u001b[0m\u2502    13.04     \u2502 2014-01-27  \u2502     13.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mQuantal Quetzal          \u001b[0m\u001b[2m \u001b[0m\u2502    12.10     \u2502 2014-05-16  \u2502     12.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mPrecise Pangolin         \u001b[0m\u001b[2m \u001b[0m\u2502    12.04     \u2502 2017-04-28  \u2502    12.04.5    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mOneiric Ocelot           \u001b[0m\u001b[2m \u001b[0m\u2502    11.10     \u2502 2013-05-09  \u2502     11.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mNatty Narwhal            \u001b[0m\u001b[2m \u001b[0m\u2502    11.04     \u2502 2012-10-28  \u2502     11.04     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mMaverick Meerkat         \u001b[0m\u001b[2m \u001b[0m\u2502    10.10     \u2502 2012-04-10  \u2502     10.10     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mLucid Lynx               \u001b[0m\u001b[2m \u001b[0m\u2502    10.04     \u2502 2013-05-09  \u2502    10.04.4    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mKarmic Koala             \u001b[0m\u001b[2m \u001b[0m\u2502     9.10     \u2502 2011-04-30  \u2502     9.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mJaunty Jackalope         \u001b[0m\u001b[2m \u001b[0m\u2502     9.04     \u2502 2010-10-23  \u2502     9.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mIntrepid Ibex            \u001b[0m\u001b[2m \u001b[0m\u2502     8.10     \u2502 2010-04-30  \u2502     8.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHardy Heron              \u001b[0m\u001b[2m \u001b[0m\u2502     8.04     \u2502 2013-05-09  \u2502    8.04.4     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mGutsy Gibbon             \u001b[0m\u001b[2m \u001b[0m\u2502     7.10     \u2502 2009-04-18  \u2502     7.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mFeisty Fawn              \u001b[0m\u001b[2m \u001b[0m\u2502     7.04     \u2502 2008-10-19  \u2502     7.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mEdgy Eft                 \u001b[0m\u001b[2m \u001b[0m\u2502     6.10     \u2502 2006-10-26  \u2502     6.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mDapper Drake             \u001b[0m\u001b[2m \u001b[0m\u2502     6.06     \u2502 2011-06-01  \u2502    6.06.2     \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mBreezy Badger            \u001b[0m\u001b[2m \u001b[0m\u2502     5.10     \u2502 2007-04-13  \u2502     5.10      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mHoary Hedgehog           \u001b[0m\u001b[2m \u001b[0m\u2502     5.04     \u2502 2006-10-31  \u2502     5.04      \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWarty Warthog            \u001b[0m\u001b[2m \u001b[0m\u2502     4.10     \u2502 2004-10-26  \u2502     4.10      \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n\u001b[3m                             OS TARGET: WINDOWS                              \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36m Main version  \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-e    \u2502 2028-10-10  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-w    \u2502 2027-10-12  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 11-24h2-iot-lts \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  11-24h2-e-lts  \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-e    \u2502 2027-10-12  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-w    \u2502 2026-10-13  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-e    \u2502 2026-11-10  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-w    \u2502 2025-11-11  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-22h2     \u2502 2025-10-14  \u2502  10.0.19045   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-e    \u2502 2025-10-14  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-w    \u2502 2024-10-08  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 10-21h2-iot-lts \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-21h2-e-lts  \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-e    \u2502 2024-06-11  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-w    \u2502 2023-06-13  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-e    \u2502 2024-10-08  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-w    \u2502 2023-10-10  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-21h1     \u2502 2022-12-13  \u2502  10.0.19043   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-e    \u2502 2023-05-09  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-w    \u2502 2022-05-10  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-2004     \u2502 2021-12-14  \u2502  10.0.19041   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-e    \u2502 2022-05-10  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-w    \u2502 2021-05-11  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1903     \u2502 2020-12-08  \u2502  10.0.18362   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1809-e-lts  \u2502 2024-01-09  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-e    \u2502 2021-05-11  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-w    \u2502 2020-11-10  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-e    \u2502 2020-05-11  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-w    \u2502 2019-11-12  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-e    \u2502 2020-10-13  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-w    \u2502 2019-04-09  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-e    \u2502 2019-10-08  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-w    \u2502 2018-10-09  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1607-e-lts  \u2502 2021-10-12  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-e    \u2502 2019-04-09  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-w    \u2502 2018-04-10  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1511     \u2502 2017-10-10  \u2502  10.0.10586   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1507-e-lts  \u2502 2020-10-13  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1507     \u2502 2017-05-09  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502   10-1507-iot   \u2502 2020-11-10  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502       8.1       \u2502 2018-01-09  \u2502   6.3.9600    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502        8        \u2502 2016-01-12  \u2502   6.2.9200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      7-sp1      \u2502 2015-01-13  \u2502   6.1.7601    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      6-sp2      \u2502 2012-04-10  \u2502   6.0.6200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      5-sp3      \u2502 2009-04-14  \u2502   5.1.2600    \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n\u001b[3m                             OS TARGET: WINDOWS                              \u001b[0m\n\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e\n\u2502\u001b[1;36m \u001b[0m\u001b[1;36mCodeName                 \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36m Main version  \u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mEnd of life\u001b[0m\u001b[1;36m \u001b[0m\u2502\u001b[1;36m \u001b[0m\u001b[1;36mMinor Version\u001b[0m\u001b[1;36m \u001b[0m\u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-e    \u2502 2028-10-10  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-25h2-w    \u2502 2027-10-12  \u2502  10.0.26200   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 11-24h2-iot-lts \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  11-24h2-e-lts  \u2502 2029-10-09  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-e    \u2502 2027-10-12  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-24h2-w    \u2502 2026-10-13  \u2502  10.0.26100   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-e    \u2502 2026-11-10  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-23h2-w    \u2502 2025-11-11  \u2502  10.0.22631   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-22h2     \u2502 2025-10-14  \u2502  10.0.19045   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-e    \u2502 2025-10-14  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-22h2-w    \u2502 2024-10-08  \u2502  10.0.22621   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502 10-21h2-iot-lts \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-21h2-e-lts  \u2502 2027-01-12  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-e    \u2502 2024-06-11  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-21h2-w    \u2502 2023-06-13  \u2502  10.0.19044   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-e    \u2502 2024-10-08  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    11-21h2-w    \u2502 2023-10-10  \u2502  10.0.22000   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-21h1     \u2502 2022-12-13  \u2502  10.0.19043   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-e    \u2502 2023-05-09  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-20h2-w    \u2502 2022-05-10  \u2502  10.0.19042   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-2004     \u2502 2021-12-14  \u2502  10.0.19041   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-e    \u2502 2022-05-10  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1909-w    \u2502 2021-05-11  \u2502  10.0.18363   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1903     \u2502 2020-12-08  \u2502  10.0.18362   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1809-e-lts  \u2502 2024-01-09  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-e    \u2502 2021-05-11  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1809-w    \u2502 2020-11-10  \u2502  10.0.17763   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-e    \u2502 2020-05-11  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1803-w    \u2502 2019-11-12  \u2502  10.0.17134   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-e    \u2502 2020-10-13  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1709-w    \u2502 2019-04-09  \u2502  10.0.16299   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-e    \u2502 2019-10-08  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1703-w    \u2502 2018-10-09  \u2502  10.0.15063   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1607-e-lts  \u2502 2021-10-12  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-e    \u2502 2019-04-09  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502    10-1607-w    \u2502 2018-04-10  \u2502  10.0.14393   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1511     \u2502 2017-10-10  \u2502  10.0.10586   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502  10-1507-e-lts  \u2502 2020-10-13  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502     10-1507     \u2502 2017-05-09  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502   10-1507-iot   \u2502 2020-11-10  \u2502  10.0.10240   \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502       8.1       \u2502 2018-01-09  \u2502   6.3.9600    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502        8        \u2502 2016-01-12  \u2502   6.2.9200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      7-sp1      \u2502 2015-01-13  \u2502   6.1.7601    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      6-sp2      \u2502 2012-04-10  \u2502   6.0.6200    \u2502\n\u2502\u001b[2m \u001b[0m\u001b[2mWindows                  \u001b[0m\u001b[2m \u001b[0m\u2502      5-sp3      \u2502 2009-04-14  \u2502   5.1.2600    \u2502\n\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f\n\n\n"
+    }
+]

@@ -21,11 +21,15 @@ infrastructure:
     - { ip: "192.168.10.10", name: "DC01", os: "Windows Server" }
     - { ip: "192.168.10.11", name: "DC02", os: "Windows Server" }
   wms:
-    db_ip: "192.168.10.21"   # WMS-DB
-    app_ip: "192.168.10.22"  # WMS-APP
+    db_ip: "192.168.100.127"   # WMS-DB
+    app_ip: "192.168.100.127"  # WMS-APP
     db_name: "wms_prod"
 
-
+audit:
+  target_os: 
+    - "ubuntu"
+    - "windows"
+    - "windows"
 # Seuils d'alerte
 thresholds:
   cpu_percent: 90
