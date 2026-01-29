@@ -10,24 +10,23 @@ class NTL_Logger:
 
     def log(self, result_dict):
         module = result_dict.get("module", "unknown")
-        # Utilisation de ISO 8601 si possible, sinon format par défaut
         timestamp = result_dict.get("timestamp", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         status = result_dict.get("status", "INFO")
         message = result_dict.get("message", "")
         data = result_dict.get("data", {})
 
-        # Logique de déduction du code de retour
+        # Return code deduction logic
         if "code" not in result_dict:
             result_dict["code"] = 0 if status == "OK" else 1
         
         code = result_dict["code"]
 
-        # Affichage Console
+        # Console Display
         color = "\033[92m" if status == "OK" else "\033[91m"
         reset = "\033[0m"
         print(f"[{timestamp}] {color}{status}{reset} | Module: {module} | Code: {code} | {message}")
 
-        # Sauvegarde JSON
+        # Json Save
         filename = f"{module}_{datetime.now().strftime('%Y%m%d')}.json"
         filepath = os.path.join(self.log_dir, filename)
 
