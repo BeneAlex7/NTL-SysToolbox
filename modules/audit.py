@@ -154,7 +154,7 @@ def run(config):
     """Main module entry point complying with the interface contract."""
     # Retrieve target OS from config
     os_name = config.get('audit', {}).get('target_os', 'windows')
-    
+    print(config.get('test', {}))
     # Standardize target_os as a list
     if isinstance(os_name, str):
         os_name = [os_name]
@@ -276,7 +276,7 @@ def scan_network(config):
     print(f"[INFO] Scanning target: {target_range} ... (This might take a while)")
 
     try:
-        # -O: OS Detection (Requires Root) | -T4: Aggressive timing (Faster)
+        # -O: OS Detection (Requires Root) | -T4: (Faster)
         nm.scan(hosts=target_range, arguments='-O --osscan-guess -T4')
         
         hosts_data = []
