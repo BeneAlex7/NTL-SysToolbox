@@ -8,14 +8,13 @@ logging:
   json_format: true
   timestamp_format: "%Y-%m-%d %H:%M:%S"
 
-# Pour l'Audit
 networks:
   lille_hq: "192.168.10.0/24"
   wh1_lens: "192.168.20.0/24"
   wh2_valenciennes: "192.168.30.0/24"
   wh3_arras: "192.168.40.0/24"
 
-# Pour Diagnostic et Backup
+
 infrastructure:
   ad_dns:
     - { ip: "192.168.10.10", name: "DC01", os: "Windows Server" }
@@ -30,8 +29,21 @@ audit:
     - "ubuntu"
     - "windows"
     - "windows"
-# Seuils d'alerte
+  mapping_os:
+    "Windows 10" : "windows:10-22h2"
+    "Ubuntu 20.04": "ubuntu:20.04"
+    "Windows Server 2012 R2": "windows-server:2012-r2"
+  network_range:
+    - '127.0.0.1'
+    - '192.168.150.0/24'
+    - '192.168.100.0/24'
+  csv_path: "data/list.csv" 
+  audit_obsolescence_doc_path: "data/audit"
+  audit_obsolescence_doc_path_csv: "data/audit/csv" 
+
 thresholds:
   cpu_percent: 90
   ram_percent: 85
   disk_percent: 90
+
+
