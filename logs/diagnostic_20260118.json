@@ -1,0 +1,2802 @@
+[
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:40:13",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "MESSAGE",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:40:19",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "MESSAGE",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:49:13",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "MESSAGE",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:57:17",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "CYCLE           | SUPPORT      | LATEST         \n------------------------------------------------\n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:58:37",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nCYCLE           | SUPPORT      | LATEST         \n------------------------------------------------\n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 17:59:18",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nCYCLE           | SUPPORT      | LATEST         \n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 18:00:26",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nMain version    | End of support life | Minor Version  \n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 18:00:54",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nMain version    | End of support life | Minor Version  \n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 18:01:38",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nMain version    | EOF          | Minor Version  \n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    },
+    {
+        "module": "diagnostic",
+        "timestamp": "2026-01-18 18:01:53",
+        "status": "OK",
+        "target": "L'OS cible est windows",
+        "data": [
+            {
+                "codename": null,
+                "support": "2028-10-10",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26200",
+                "cycle": "11-25h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2029-10-09",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-10-12",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2026-10-13",
+                "latest": "10.0.26100",
+                "cycle": "11-24h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2026-11-10",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2025-11-11",
+                "latest": "10.0.22631",
+                "cycle": "11-23h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.19045",
+                "cycle": "10-22h2"
+            },
+            {
+                "codename": null,
+                "support": "2025-10-14",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22621",
+                "cycle": "11-22h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-iot-lts"
+            },
+            {
+                "codename": null,
+                "support": "2027-01-12",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2024-06-11",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-06-13",
+                "latest": "10.0.19044",
+                "cycle": "10-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2024-10-08",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2023-10-10",
+                "latest": "10.0.22000",
+                "cycle": "11-21h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2022-12-13",
+                "latest": "10.0.19043",
+                "cycle": "10-21h1"
+            },
+            {
+                "codename": null,
+                "support": "2023-05-09",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-e"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.19042",
+                "cycle": "10-20h2-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-12-14",
+                "latest": "10.0.19041",
+                "cycle": "10-2004"
+            },
+            {
+                "codename": null,
+                "support": "2022-05-10",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-e"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.18363",
+                "cycle": "10-1909-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-12-08",
+                "latest": "10.0.18362",
+                "cycle": "10-1903"
+            },
+            {
+                "codename": null,
+                "support": "2024-01-09",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2021-05-11",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-e"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.17763",
+                "cycle": "10-1809-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-05-11",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-11-12",
+                "latest": "10.0.17134",
+                "cycle": "10-1803-w"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-e"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.16299",
+                "cycle": "10-1709-w"
+            },
+            {
+                "codename": null,
+                "support": "2019-10-08",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-10-09",
+                "latest": "10.0.15063",
+                "cycle": "10-1703-w"
+            },
+            {
+                "codename": null,
+                "support": "2021-10-12",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2019-04-09",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-e"
+            },
+            {
+                "codename": null,
+                "support": "2018-04-10",
+                "latest": "10.0.14393",
+                "cycle": "10-1607-w"
+            },
+            {
+                "codename": null,
+                "support": "2017-10-10",
+                "latest": "10.0.10586",
+                "cycle": "10-1511"
+            },
+            {
+                "codename": null,
+                "support": "2020-10-13",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-e-lts"
+            },
+            {
+                "codename": null,
+                "support": "2017-05-09",
+                "latest": "10.0.10240",
+                "cycle": "10-1507"
+            },
+            {
+                "codename": null,
+                "support": "2020-11-10",
+                "latest": "10.0.10240",
+                "cycle": "10-1507-iot"
+            },
+            {
+                "codename": null,
+                "support": "2018-01-09",
+                "latest": "6.3.9600",
+                "cycle": "8.1"
+            },
+            {
+                "codename": null,
+                "support": "2016-01-12",
+                "latest": "6.2.9200",
+                "cycle": "8"
+            },
+            {
+                "codename": null,
+                "support": "2015-01-13",
+                "latest": "6.1.7601",
+                "cycle": "7-sp1"
+            },
+            {
+                "codename": null,
+                "support": "2012-04-10",
+                "latest": "6.0.6200",
+                "cycle": "6-sp2"
+            },
+            {
+                "codename": null,
+                "support": "2009-04-14",
+                "latest": "5.1.2600",
+                "cycle": "5-sp3"
+            }
+        ],
+        "message": "\nMain version    | End of life  | Minor Version  \n11-25h2-e       | 2028-10-10   | 10.0.26200     \n11-25h2-w       | 2027-10-12   | 10.0.26200     \n11-24h2-iot-lts | 2029-10-09   | 10.0.26100     \n11-24h2-e-lts   | 2029-10-09   | 10.0.26100     \n11-24h2-e       | 2027-10-12   | 10.0.26100     \n11-24h2-w       | 2026-10-13   | 10.0.26100     \n11-23h2-e       | 2026-11-10   | 10.0.22631     \n11-23h2-w       | 2025-11-11   | 10.0.22631     \n10-22h2         | 2025-10-14   | 10.0.19045     \n11-22h2-e       | 2025-10-14   | 10.0.22621     \n11-22h2-w       | 2024-10-08   | 10.0.22621     \n10-21h2-iot-lts | 2027-01-12   | 10.0.19044     \n10-21h2-e-lts   | 2027-01-12   | 10.0.19044     \n10-21h2-e       | 2024-06-11   | 10.0.19044     \n10-21h2-w       | 2023-06-13   | 10.0.19044     \n11-21h2-e       | 2024-10-08   | 10.0.22000     \n11-21h2-w       | 2023-10-10   | 10.0.22000     \n10-21h1         | 2022-12-13   | 10.0.19043     \n10-20h2-e       | 2023-05-09   | 10.0.19042     \n10-20h2-w       | 2022-05-10   | 10.0.19042     \n10-2004         | 2021-12-14   | 10.0.19041     \n10-1909-e       | 2022-05-10   | 10.0.18363     \n10-1909-w       | 2021-05-11   | 10.0.18363     \n10-1903         | 2020-12-08   | 10.0.18362     \n10-1809-e-lts   | 2024-01-09   | 10.0.17763     \n10-1809-e       | 2021-05-11   | 10.0.17763     \n10-1809-w       | 2020-11-10   | 10.0.17763     \n10-1803-e       | 2020-05-11   | 10.0.17134     \n10-1803-w       | 2019-11-12   | 10.0.17134     \n10-1709-e       | 2020-10-13   | 10.0.16299     \n10-1709-w       | 2019-04-09   | 10.0.16299     \n10-1703-e       | 2019-10-08   | 10.0.15063     \n10-1703-w       | 2018-10-09   | 10.0.15063     \n10-1607-e-lts   | 2021-10-12   | 10.0.14393     \n10-1607-e       | 2019-04-09   | 10.0.14393     \n10-1607-w       | 2018-04-10   | 10.0.14393     \n10-1511         | 2017-10-10   | 10.0.10586     \n10-1507-e-lts   | 2020-10-13   | 10.0.10240     \n10-1507         | 2017-05-09   | 10.0.10240     \n10-1507-iot     | 2020-11-10   | 10.0.10240     \n8.1             | 2018-01-09   | 6.3.9600       \n8               | 2016-01-12   | 6.2.9200       \n7-sp1           | 2015-01-13   | 6.1.7601       \n6-sp2           | 2012-04-10   | 6.0.6200       \n5-sp3           | 2009-04-14   | 5.1.2600       \n",
+        "code": 0
+    }
+]

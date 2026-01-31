@@ -2,52 +2,45 @@ import os
 import yaml
 from pathlib import Path
 from dotenv import load_dotenv
+import core.security as sec
 
-def load_config(config_filename="config.yaml"):
-    """
-    Charge la configuration depuis le fichier YAML et applique les surcharges
-    depuis le fichier .env et les variables d'environnement.
-    """
-    # Définition des chemins
+def deep_merge(source, destination):
+    for key, value in source.items():
+        if isinstance(value, dict):
+            node = destination.setdefault(key, {})
+            deep_merge(value, node)
+        else:
+            destination[key] = value
+    return destination
+
+def load_config(vault_password=None):
     current_dir = Path(__file__).resolve().parent
     project_root = current_dir.parent
-    config_path = project_root / config_filename
+    
+    config_path = project_root / "config.yaml"
     env_path = project_root / ".env"
 
-    # Chargement des variables d'environnement
     load_dotenv(dotenv_path=env_path)
 
-    # Chargement du YAML
-    if not config_path.exists():
-        raise FileNotFoundError(f"Fichier de configuration introuvable : {config_path}")
+    # 1. Load public config
+    config = {}
+    if config_path.exists():
+        with open(config_path, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f) or {}
 
-    with open(config_path, "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f) or {}
+    # 2. Load encrypted secrets (via core.security)
+    if vault_password:
+        secrets = sec.load_secrets_dict(vault_password)
+        if secrets:
+            deep_merge(secrets, config)
 
-    # 1. Injection des Secrets (depuis .env)
-    config["secrets"] = {
-        "ad_user": os.getenv("AD_USER"),
-        "ad_password": os.getenv("AD_PASSWORD"),
-        "mysql_user": os.getenv("MYSQL_USER"),
-        "mysql_password": os.getenv("MYSQL_PASSWORD"),
-        "mysql_port": int(os.getenv("MYSQL_PORT", 3306)),
-    }
-
-    # 2. Surcharges Infrastructure (depuis .env)
-    # Surcharge IP WMS DB
-    wms_db_ip = os.getenv("WMS_DB_IP")
-    if wms_db_ip:
-        # On s'assure que la structure existe
-        if "infrastructure" in config and "wms" in config["infrastructure"]:
-            config["infrastructure"]["wms"]["db_ip"] = wms_db_ip
-
-    # Surcharge IP DC01
-    dc01_ip = os.getenv("DC01_IP")
-    if dc01_ip:
-        if "infrastructure" in config and "ad_dns" in config["infrastructure"]:
-            ad_dns = config["infrastructure"]["ad_dns"]
-            if isinstance(ad_dns, list) and len(ad_dns) > 0:
-                # On suppose que DC01 est le premier élément comme défini dans le YAML par défaut
-                ad_dns[0]["ip"] = dc01_ip
+    # 3. Load Env Vars
+    for env_key, env_val in os.environ.items():
+        if env_key.startswith("NTL_"):
+            keys = env_key.lower().replace("ntl__", "").split("__")
+            current = config
+            for key in keys[:-1]:
+                current = current.setdefault(key, {})
+            current[keys[-1]] = env_val
 
     return config
