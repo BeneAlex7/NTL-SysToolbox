@@ -154,7 +154,6 @@ def run(config):
     """Main module entry point complying with the interface contract."""
     # Retrieve target OS from config
     os_name = config.get('audit', {}).get('target_os', 'windows')
-    print(config.get('test', {}))
     # Standardize target_os as a list
     if isinstance(os_name, str):
         os_name = [os_name]
@@ -167,23 +166,32 @@ def run(config):
         try:
             response = requests.get(url, timeout=5)
             response.raise_for_status()
-            
+            response_json = response.json()
             filtered_data = []
-            for item in response.json():
+            for item in response_json:
                 new_mini_dict = {}
                 for value in key_dict:
                     if value in item:
                         new_mini_dict[value] = item.get(value)
                 filtered_data.append(new_mini_dict)
             all_filtered_data.append(filtered_data)
-        except Exception:
+        except requests.RequestException as e:
             return {
                 "module": "audit_obsolescence",
                 "status": "ERROR",
                 "code": 1,
                 "target": os_name,
                 "data": {},
-                "message": f"{target_os} does not exist in the API"
+                "message": f"API Request failed for {target_os}: {str(e)}"
+            }
+        except ValueError as e:
+            return {
+                "module": "audit_obsolescence",
+                "status": "ERROR",
+                "code": 1,
+                "target": os_name,
+                "data": {},
+                "message": f"Invalid JSON response for {target_os}: {str(e)}"
             }
             
     return {
@@ -199,6 +207,7 @@ def eol_csv(config):
     """Audit module using a CSV file and mapping dictionary."""
     csv_path = config.get('audit', {}).get('csv_path', {})
     mapping_os_dict = config.get('audit', {}).get('mapping_os', {})
+    print(mapping_os_dict)
     key_dict = ['name', 'eolFrom', 'isEol', 'eoasFrom', 'isMaintained', 'isEoes']
     final_list = []
     

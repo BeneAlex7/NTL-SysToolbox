@@ -19,11 +19,20 @@ infrastructure:
   ad_dns:
     - { ip: "192.168.10.10", name: "DC01", os: "Windows Server" }
     - { ip: "192.168.10.11", name: "DC02", os: "Windows Server" }
+  windows_servers:
+    - { ip: "192.168.10.10", name: "DC01", os: "windows", secret_ref: "win_admin" }
+    - { ip: "192.168.10.11", name: "DC02", os: "windows", secret_ref: "win_admin" }
+  linux_servers:
+    - { ip: "192.168.10.21", name: "WMS-DB", os: "ubuntu", secret_ref: "wms_db_ssh" }
+    - { ip: "192.168.10.22", name: "WMS-APP", os: "ubuntu", secret_ref: "wms_app_ssh" }
   wms:
-    db_ip: "192.168.100.127"   # WMS-DB
-    app_ip: "192.168.100.127"  # WMS-APP
-    db_name: "wms_prod"
-
+    db_ip: "192.168.10.21"   # WMS-DB
+    app_ip: "192.168.10.22"  # WMS-APP
+    db_name: "wms_db"
+diag:
+  ad_ip:
+    - '192.168.100.5'
+    - '192.168.100.6'
 audit:
   target_os: 
     - "ubuntu"
