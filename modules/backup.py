@@ -56,7 +56,6 @@ def backup_sql(config, backup_dir, timestamp):
     linux_servers = config.get("infrastructure", {}).get("linux_servers", [])
     wms_server = next((s for s in linux_servers if s.get("name") == "WMS-DB" or s.get("name") == "wms_db"), None)
     if not wms_server:
-        # Fallback if not specifically named WMS-DB
         wms_server = linux_servers[0] if linux_servers else None
         
     ssh_ip = wms_server.get("ip") if wms_server else db_config.get("db_ip", "127.0.0.1")
@@ -127,7 +126,6 @@ def backup_csv(config, backup_dir, timestamp, table_name):
         )
         cursor = connection.cursor()
         
-        # We must secure the table_name input slightly to avoid rudimentary SQLi
         if not table_name.isidentifier():
              raise ValueError("Invalid table name")
              

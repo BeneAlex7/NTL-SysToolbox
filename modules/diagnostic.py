@@ -49,8 +49,6 @@ def check_mysql(config):
     db_ip = db_config.get("db_ip", "127.0.0.1")
     db_name = db_config.get("db_name", "wms_prod")
     
-    # Needs auth from config or environment variables
-    # We will assume credentials are merged into config by config_loader from vault or env
     db_user = config.get("wms_db_user", "root")
     db_password = config.get("wms_db_password", "")
     
@@ -103,27 +101,27 @@ def get_system_metrics(targets, config, thresholds):
             try:
                 session = winrm.Session(ip, auth=(user, password), transport='ntlm')
                 
-                # --- CPU (Remis en place + Correction virgule) ---
+                # --- CPU
                 rs = session.run_ps("(Get-WmiObject -Class Win32_Processor | Measure-Object -Property LoadPercentage -Average).Average")
                 cpu_output = rs.std_out.decode('utf-8').strip()
                 cpu_usage = float(cpu_output.replace(',', '.').strip()) if cpu_output else 0.0
                 
-                # --- RAM (Déjà là, vérifie le nettoyage) ---
+                # --- RAM
                 rs = session.run_ps("$os = Get-WmiObject -Class Win32_OperatingSystem; [math]::Round((($os.TotalVisibleMemorySize - $os.FreePhysicalMemory) / $os.TotalVisibleMemorySize) * 100, 1)")
                 ram_output = rs.std_out.decode('utf-8').strip()
                 ram_usage = float(ram_output.replace(',', '.').strip()) if ram_output else 0.0
                 
-                # --- Disk (Déjà là) ---
+                # --- Disk
                 rs = session.run_ps("$disk = Get-WmiObject -Class Win32_LogicalDisk -Filter \"DeviceID='C:'\"; if ($disk) { [math]::Round((($disk.Size - $disk.FreeSpace) / $disk.Size) * 100, 1) } else { 0 }")
                 disk_output = rs.std_out.decode('utf-8').strip()
                 disk_usage = float(disk_output.replace(',', '.').strip()) if disk_output else 0.0
                 
-                # --- Uptime (Déjà là) ---
+                # --- Uptime
                 rs = session.run_ps("$os = Get-WmiObject -Class Win32_OperatingSystem; $uptime = (Get-Date) - $os.ConvertToDateTime($os.LastBootUpTime); [math]::Round($uptime.TotalHours, 2)")
                 uptime_output = rs.std_out.decode('utf-8').strip()
                 uptime_hours = float(uptime_output.replace(',', '.').strip()) if uptime_output else 0.0
                 
-                # Maintenant la comparaison fonctionnera car cpu_usage existe !
+        
                 status = "OK"
                 if cpu_usage > cpu_thresh or ram_usage > ram_thresh or disk_usage > disk_thresh:
                     status = "WARNING"
@@ -150,7 +148,6 @@ def get_system_metrics(targets, config, thresholds):
                 all_ok = False
 
         else:
-            # Assume Linux/Ubuntu
             client = paramiko.SSHClient()
             client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             
@@ -251,7 +248,7 @@ def format_diagnostic_report(ad_results, mysql_result, sys_metrics):
         table.add_row(f"System Metrics ({metric['name']})", sys_details, f"[{color}]{metric['status']}[/{color}]")
     
     console.print(table)
-    return "" # Output is printed to console, we can also capture it if needed
+    return ""
 
 def run(config, mode="all", targets=None):
     """Execution function returning dictionaries for specific diagnostic tests."""
@@ -330,7 +327,6 @@ def run(config, mode="all", targets=None):
         
     if mode == "all":
         format_diagnostic_report(ad_results, mysql_result, sys_metrics)
-        # Combine returned objects for multi-run logic when called via code
         status = "OK"
         code = 0
         if not ad_ok or not mysql_ok:
