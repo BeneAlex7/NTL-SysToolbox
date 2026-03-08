@@ -1,0 +1,4 @@
+id;sku;product_name;quantity;warehouse_code;last_updated
+1;ELEC-442;Scanner Zebra ZT411;12;WH1;2026-03-07 15:25:26
+2;PACK-010;Rouleaux Etiquettes Thermiques;500;WH3;2026-03-07 15:25:26
+3;TOOL-99;Transpalette Manuel;5;WH2;2026-03-07 15:25:26

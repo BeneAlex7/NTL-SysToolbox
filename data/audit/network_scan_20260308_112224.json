@@ -1,0 +1,372 @@
+{
+    "timestamp": "2026-03-08T11:22:24.117248",
+    "target": "192.168.10.0/24",
+    "host_count": 5,
+    "results": [
+        {
+            "ip": "192.168.10.1",
+            "mac": "N/A",
+            "vendor": "Unknown",
+            "os_matches": [
+                {
+                    "name": "Linux 5.0 - 5.3",
+                    "accuracy": "100",
+                    "line": "68085",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Linux",
+                            "osfamily": "Linux",
+                            "osgen": "5.X",
+                            "accuracy": "100",
+                            "cpe": [
+                                "cpe:/o:linux:linux_kernel:5"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "192.168.10.10",
+            "mac": "N/A",
+            "vendor": "Unknown",
+            "os_matches": [
+                {
+                    "name": "Microsoft Windows Server 2016",
+                    "accuracy": "93",
+                    "line": "76198",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2016",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows 10",
+                    "accuracy": "89",
+                    "line": "69397",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "10",
+                            "accuracy": "89",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_10"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Server 2012 or Windows Server 2012 R2",
+                    "accuracy": "87",
+                    "line": "75675",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2012",
+                            "accuracy": "87",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2012:r2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Vista Home Premium SP1",
+                    "accuracy": "85",
+                    "line": "79898",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "Vista",
+                            "accuracy": "85",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_vista::sp1:home_premium"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "192.168.10.11",
+            "mac": "N/A",
+            "vendor": "Unknown",
+            "os_matches": [
+                {
+                    "name": "Microsoft Windows Server 2016",
+                    "accuracy": "96",
+                    "line": "76216",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2016",
+                            "accuracy": "96",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows 10 1703",
+                    "accuracy": "96",
+                    "line": "69897",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "10",
+                            "accuracy": "96",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_10:1703"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Server 2016 build 10586 - 14393",
+                    "accuracy": "95",
+                    "line": "76253",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2016",
+                            "accuracy": "95",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2016"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows 7, Windows Server 2012, or Windows 8.1 Update 1",
+                    "accuracy": "93",
+                    "line": "77884",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "7",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_7:::ultimate"
+                            ]
+                        },
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2012",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_2012"
+                            ]
+                        },
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "8.1",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_8.1"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows 10 1507 - 1607",
+                    "accuracy": "93",
+                    "line": "69497",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "10",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_10"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Server 2012 or Server 2012 R2",
+                    "accuracy": "93",
+                    "line": "75634",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2012",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2012",
+                                "cpe:/o:microsoft:windows_server_2012:r2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Server 2012 R2 Update 1",
+                    "accuracy": "93",
+                    "line": "76091",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2012",
+                            "accuracy": "93",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2012:r2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows 10 1511",
+                    "accuracy": "92",
+                    "line": "69534",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "10",
+                            "accuracy": "92",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_10:1511"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Server 2012",
+                    "accuracy": "92",
+                    "line": "75524",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "2012",
+                            "accuracy": "92",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_server_2012"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microsoft Windows Vista SP1",
+                    "accuracy": "92",
+                    "line": "80122",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Microsoft",
+                            "osfamily": "Windows",
+                            "osgen": "Vista",
+                            "accuracy": "92",
+                            "cpe": [
+                                "cpe:/o:microsoft:windows_vista::sp1"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "192.168.10.21",
+            "mac": "N/A",
+            "vendor": "Unknown",
+            "os_matches": [
+                {
+                    "name": "Linux 4.15 - 5.6",
+                    "accuracy": "100",
+                    "line": "67241",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Linux",
+                            "osfamily": "Linux",
+                            "osgen": "4.X",
+                            "accuracy": "100",
+                            "cpe": [
+                                "cpe:/o:linux:linux_kernel:4"
+                            ]
+                        },
+                        {
+                            "type": "general purpose",
+                            "vendor": "Linux",
+                            "osfamily": "Linux",
+                            "osgen": "5.X",
+                            "accuracy": "100",
+                            "cpe": [
+                                "cpe:/o:linux:linux_kernel:5"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ip": "192.168.10.22",
+            "mac": "N/A",
+            "vendor": "Unknown",
+            "os_matches": [
+                {
+                    "name": "Linux 4.15 - 5.6",
+                    "accuracy": "100",
+                    "line": "67241",
+                    "osclass": [
+                        {
+                            "type": "general purpose",
+                            "vendor": "Linux",
+                            "osfamily": "Linux",
+                            "osgen": "4.X",
+                            "accuracy": "100",
+                            "cpe": [
+                                "cpe:/o:linux:linux_kernel:4"
+                            ]
+                        },
+                        {
+                            "type": "general purpose",
+                            "vendor": "Linux",
+                            "osfamily": "Linux",
+                            "osgen": "5.X",
+                            "accuracy": "100",
+                            "cpe": [
+                                "cpe:/o:linux:linux_kernel:5"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

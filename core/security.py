@@ -1,17 +1,36 @@
 import os
 import yaml
 import base64
+import secrets
+import stat
 from cryptography.fernet import Fernet
 from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+from cryptography.exceptions import InvalidKey
 
-STATIC_SALT = b'Sse5f784s8ze7fs6e8f4'
+def secure_delete(filepath):
+    """Overwrite a file with random data multiple times before deletion."""
+    try:
+        length = os.path.getsize(filepath)
+        with open(filepath, 'r+b') as f:
+            for _ in range(3):
+                f.seek(0)
+                f.write(os.urandom(length))
+                f.flush()
+                os.fsync(f.fileno())
+    except OSError:
+        pass  # File might not exist or be accessible, but we still try to remove
 
-def get_key(password):
+    try:
+        os.remove(filepath)
+    except OSError:
+        pass
+
+def get_key(password, salt):
     kdf = PBKDF2HMAC(
         algorithm=hashes.SHA256(),
         length=32,
-        salt=STATIC_SALT,
+        salt=salt,
         iterations=100000,
     )
     return base64.urlsafe_b64encode(kdf.derive(password.encode()))
@@ -24,7 +43,8 @@ def encrypt_disk_file(password):
         return f"Error: '{input_file}' not found."
 
     try:
-        key = get_key(password)
+        salt = os.urandom(16)
+        key = get_key(password, salt)
         fernet = Fernet(key)
 
         with open(input_file, 'rb') as f:
@@ -33,9 +53,9 @@ def encrypt_disk_file(password):
         encrypted_data = fernet.encrypt(data)
 
         with open(output_file, 'wb') as f:
-            f.write(encrypted_data)
+            f.write(salt + encrypted_data)
         
-        os.remove(input_file)
+        secure_delete(input_file)
         return f"Success: Encrypted to '{output_file}' and deleted original."
     except Exception as e:
         return f"Encryption Error: {str(e)}"
@@ -48,16 +68,28 @@ def decrypt_disk_file(password):
         return f"Error: '{input_file}' not found."
 
     try:
-        key = get_key(password)
-        fernet = Fernet(key)
-
         with open(input_file, 'rb') as f:
-            encrypted_data = f.read()
+            file_data = f.read()
+            
+        if len(file_data) < 16:
+            return "Error: File is too small or corrupted."
+            
+        salt = file_data[:16]
+        encrypted_data = file_data[16:]
 
+        key = get_key(password, salt)
+        fernet = Fernet(key)
+        
         decrypted_data = fernet.decrypt(encrypted_data)
 
         with open(output_file, 'wb') as f:
             f.write(decrypted_data)
+        
+        return f"Success: Restored '{output_file}'."
+    except InvalidKey:
+        return "Error: Invalid password."
+    except Exception as e:
+        return f"Decryption Error: {str(e)}"
         
         return f"Success: Restored '{output_file}'."
     except Exception:
@@ -73,12 +105,18 @@ def load_secrets_dict(password):
     if not os.path.exists(input_file):
         return {}
 
-    key = get_key(password)
-    fernet = Fernet(key)
-
     with open(input_file, 'rb') as f:
-        encrypted_data = f.read()
+        file_data = f.read()
+            
+    if len(file_data) < 16:
+        raise ValueError("File is too small or corrupted.")
 
+    salt = file_data[:16]
+    encrypted_data = file_data[16:]
+
+    key = get_key(password, salt)
+    fernet = Fernet(key)
+    
     decrypted_data = fernet.decrypt(encrypted_data)
     
     return yaml.safe_load(decrypted_data) or {}
