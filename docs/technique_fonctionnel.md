@@ -1,8 +1,8 @@
 # Dossier Technique et Fonctionnel - NTL-SysToolbox
 
-**Version :** 1.0.0
-**Auteur :** Équipe d'Ingénierie
-**Date :** 8 Mars 2026
+**Version:** 1.0.0
+**Target Audience:** Information Systems Department (ISD)
+**Purpose:** Deployment and exploitation procedure for the NTL audit and diagnostic tool on Linux.
 
 ---
 
