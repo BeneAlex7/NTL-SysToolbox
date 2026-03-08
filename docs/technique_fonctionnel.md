@@ -73,4 +73,3 @@ L'algorithme de calcul des risques a été ajusté en fonction de la criticité 
 * **Backup WMS via mysqldump :** Plutôt que de coder une solution de copie binaire de la base de données (sujette à des locks), le module invoque `mysqldump` à travers le tunnel SSH distant puis redirige sa sortie vers un pipeline de compression locale `gzip`. C'est robuste, respecte l'intégrité transactionnelle, mais requiert une bande passante stable durant le transfert du flux SQL.
 
 ---
-*Ce document forme l'appendice technique final du projet NTL-SysToolbox livré à la DSI.*
