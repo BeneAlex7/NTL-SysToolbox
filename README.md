@@ -1,20 +1,42 @@
+Voici une version épurée, factuelle et professionnelle du README.md, adaptée à un rendu académique et technique.
 NTL-SysToolbox v1.0
 
-Outil CLI d'administration système développé pour Nord Transit Logistics. Ce programme centralise le diagnostic, l'audit d'obsolescence et la gestion des sauvegardes sur les sites de Lille (Siège), Lens, Valenciennes et Arras.
-Fonctions principales
+NTL-SysToolbox est une solution d'administration système centralisée conçue pour la DSI de Nord Transit Logistics. L'outil permet de piloter l'infrastructure des sites de Lille, Lens, Valenciennes et Arras via une interface en ligne de commande (CLI).
+Fonctionnalités principales
 
-    Audit d'obsolescence : Scan réseau (Nmap) et vérification des dates de fin de support (EOL) via l'API endoflife.date.
+    Audit d'obsolescence : Identification de la dette technique par croisement entre scans Nmap et l'API endoflife.date.
 
-    Diagnostic : Monitoring des ressources (CPU/RAM/Disque) et état des services critiques (AD, DNS, MySQL).
+    Diagnostic de santé : Monitoring à distance des ressources (CPU, RAM, Disque) et des services critiques (AD, DNS, MySQL).
 
-    Sauvegarde : Exports SQL et CSV de la base de données WMS.
+    Module de sauvegarde : Automatisation des extractions SQL complètes et des exports métier au format CSV.
 
-    Sécurité : Chiffrement Fernet/AES-128 des identifiants et gestion des privilèges Root/Admin.
+    Sécurité des accès : Chiffrement des identifiants via AES-128 et gestion d'un mot de passe maître pour le déchiffrement en mémoire vive.
+
+Architecture du projet
+
+Le projet est structuré de manière modulaire pour faciliter la maintenance :
+
+    core/ : Gestion de la configuration, de la sécurité et du moteur de l'application.
+
+    modules/ : Contient la logique métier (audit.py, diagnostic.py, backup.py).
+
+    data/ : Répertoire de stockage des rapports générés et des archives de sauvegarde.
+
+    main.py : Point d'entrée principal de l'application.
+
+Installation
+
+    Clonage du dépôt :
+
+    Installation des dépendances :
+
+    Note : Les bibliothèques principales incluent rich, paramiko, pywinrm, mysql-connector-python et cryptography.
 
 Utilisation
 
-    Lancer l'outil : python main.py.
+Le lancement s'effectue par la commande :
 
-    Saisir le Master Password pour charger les secrets en mémoire vive.
+L'utilisateur doit saisir le mot de passe maître pour déverrouiller l'accès aux serveurs distants. Pour les fonctions de détection d'OS (Module Audit), l'exécution avec des privilèges élevés (Administrateur ou Sudo) est requise.
+Gestion des sources et versioning
 
-    Naviguer dans le menu interactif (librairie Rich) pour choisir un module.
+Le code source, l'historique des modifications et la documentation technique sont hébergés sur GitLab.
