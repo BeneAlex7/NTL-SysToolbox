@@ -1,4 +1,3 @@
-Voici une version épurée, factuelle et professionnelle du README.md, adaptée à un rendu académique et technique.
 NTL-SysToolbox v1.0
 
 NTL-SysToolbox est une solution d'administration système centralisée conçue pour la DSI de Nord Transit Logistics. L'outil permet de piloter l'infrastructure des sites de Lille, Lens, Valenciennes et Arras via une interface en ligne de commande (CLI).
